@@ -1,3 +1,6 @@
+This fork changes docker-compose.yml for pushing to my docker hub account.
+https://hub.docker.com/repository/docker/coffeebaba
+
 # <img src="frontend/public/AnyHabit.png" width="45" height="45" valign="middle"> AnyHabit
 
 [![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com/)
