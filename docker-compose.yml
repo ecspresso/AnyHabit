@@ -7,6 +7,3 @@ services:
     build:
       context: ./frontend
     image: coffeebaba/anyhabit-frontend:latest
-    environment:
-      - BACKEND_HOST=backend
-
