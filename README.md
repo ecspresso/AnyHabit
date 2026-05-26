@@ -1,5 +1,9 @@
-This fork changes docker-compose.yml for pushing to my docker hub account.
-https://hub.docker.com/repository/docker/coffeebaba
+This fork was created because I needed to be able to change the hostname of the backend server.
+I maintain images for this project here: https://hub.docker.com/repository/docker/coffeebaba
+
+All credit for creating this goes to the original author.
+
+To use this fork, you have to set `BACKNED_HOST` environment variabel for the frontend server.
 
 # <img src="frontend/public/AnyHabit.png" width="45" height="45" valign="middle"> AnyHabit
 
